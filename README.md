@@ -1,2 +1,2 @@
 # minimal-raft-cs
-minimal raft in sharp
+minimal raft in C#
