@@ -1,4 +1,4 @@
-Feature \
+### Feature
 Leader Election + Log Replication? \
 Persistence? \
 Membership Changes? \
